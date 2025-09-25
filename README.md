@@ -1,21 +1,22 @@
-#📚 Library Management System (Java)
-This is a simple Library Management System built using Java and OOP concepts.
-It allows you to:
+# Library Management System
 
-Add books to the library
+A simple **Java Console-based Library Management System** that allows you to manage books and users.
+This project demonstrates OOP concepts, method usage, and console-based user interaction — ideal for beginner projects or internship submissions.
 
-View all books with availability status
+------------
+
+# ✨ Features
+
+Add new books to the library
+
+View all books with their availability status
 
 Issue a book to a user
 
 Return a book to the library
 
-#Features
+Uses Book, User, and Library classes to manage data
 
-Book Class – Represents a book with title, author, and issued status
+Menu-driven, runs until user exits
 
-User Class – Represents a user with ID and name
-
-Library Class – Manages books, issue & return operations
-
-Main Class – Runs the application with example input/output
+Input validation for invalid operations
